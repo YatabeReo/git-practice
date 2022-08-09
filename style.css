@@ -1,8 +1,10 @@
-* {
-  margin: 0;
-  padding: 0;
-}
+img {
+    height: 100px;
+  }
+  #name {
+    color: blue;
+  }
 
-.box {
-  background-color: red;
-  width: 200px;}
+  #result {
+  color: green;
+  }
